@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     }
     func what() {
         print("This is a print statement")
+        print("lolololol")
     }
 
 }
