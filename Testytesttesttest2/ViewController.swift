@@ -14,7 +14,9 @@ class ViewController: UIViewController {
         print("lol")
         // Do any additional setup after loading the view.
     }
-
+    func what() {
+        print("This is a print statement")
+    }
 
 }
 
